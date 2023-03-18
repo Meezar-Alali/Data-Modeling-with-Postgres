@@ -66,7 +66,7 @@ songplays Table:
 Using the song and log datasets, you'll need to create a star schema optimized for queries on song play analysis. This includes the following tables.
 
 ### ERD 
-![ERD](ScreenShots/ERD.png "ERD")
+![ERD](ScreenShots/EDR.png "ERD")
 
 ## Now I test the project localy in my machine
 ### run test.ipynb on Jupyter:
