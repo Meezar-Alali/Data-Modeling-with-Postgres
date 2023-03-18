@@ -44,7 +44,7 @@ python create_tables.py
 python etl.py.py
 ```
 
-### we can see the result by PGAdmin as beloww:
+### we can see the result by PGAdmin as below:
 
 Songs Table:
 ![songs](ScreenShots/songs.png "songs")
